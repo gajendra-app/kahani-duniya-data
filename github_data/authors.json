@@ -1,0 +1,104 @@
+{
+  "authors": [
+    {
+      "id": "munshi_premchand",
+      "name": "Munshi Premchand",
+      "nameHindi": "मुंशी प्रेमचंद",
+      "bio": "मुंशी प्रेमचंद (31 जुलाई 1880 – 8 अक्टूबर 1936) हिन्दी और उर्दू के महानतम साहित्यकारों में से एक हैं। उन्होंने उपन्यास, कहानी, नाटक, समीक्षा, लेख, सम्पादकीय, संस्मरण आदि अनेक विधाओं में साहित्य की सृष्टि की। प्रेमचंद का साहित्य सामाजिक यथार्थवाद की मिसाल है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1880",
+      "deathYear": "1936"
+    },
+    {
+      "id": "rabindranath_tagore",
+      "name": "Rabindranath Tagore",
+      "nameHindi": "रबीन्द्रनाथ ठाकुर",
+      "bio": "रबीन्द्रनाथ ठाकुर (7 मई 1861 – 7 अगस्त 1941) विश्वविख्यात कवि, साहित्यकार, दार्शनिक और भारतीय साहित्य के नोबल पुरस्कार विजेता हैं। उन्हें गुरुदेव के नाम से भी जाना जाता है। उनकी रचनाओं में मानवता, प्रेम और प्रकृति की झलक मिलती है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rabindranath_Tagore_in_1909.jpg/220px-Rabindranath_Tagore_in_1909.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1861",
+      "deathYear": "1941"
+    },
+    {
+      "id": "jaishankar_prasad",
+      "name": "Jaishankar Prasad",
+      "nameHindi": "जयशंकर प्रसाद",
+      "bio": "जयशंकर प्रसाद (30 जनवरी 1889 – 15 नवम्बर 1937) हिन्दी के छायावादी युग के चार प्रमुख स्तंभों में से एक हैं। वे एक युगान्तकारी साहित्यकार थे जिन्होंने हिन्दी साहित्य में कहानी, नाटक, उपन्यास और निबन्ध को नई ऊँचाइयाँ दीं।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jaishankar_Prasad.jpg/220px-Jaishankar_Prasad.jpg",
+      "era": "छायावाद काल",
+      "birthYear": "1889",
+      "deathYear": "1937"
+    },
+    {
+      "id": "mahadevi_verma",
+      "name": "Mahadevi Verma",
+      "nameHindi": "महादेवी वर्मा",
+      "bio": "महादेवी वर्मा (26 मार्च 1907 – 11 सितम्बर 1987) हिन्दी की सर्वाधिक प्रतिभावान कवयित्रियों में से हैं। वे हिन्दी साहित्य में छायावादी युग के चार प्रमुख स्तम्भों में से एक मानी जाती हैं। उन्हें आधुनिक मीरा भी कहा जाता है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mahadevi_Varma_cropped.jpg/220px-Mahadevi_Varma_cropped.jpg",
+      "era": "छायावाद काल",
+      "birthYear": "1907",
+      "deathYear": "1987"
+    },
+    {
+      "id": "harishankar_parsai",
+      "name": "Harishankar Parsai",
+      "nameHindi": "हरिशंकर परसाई",
+      "bio": "हरिशंकर परसाई (22 अगस्त 1924 – 10 अगस्त 1995) हिन्दी के प्रसिद्ध लेखक और व्यंग्यकार थे। वे हिन्दी के पहले रचनाकार हैं जिन्होंने व्यंग्य को विधा का दर्जा दिलाया। उनकी रचनाओं में समाज और व्यवस्था पर तीखा व्यंग्य मिलता है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Harishankar_Parsai.jpg/220px-Harishankar_Parsai.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1924",
+      "deathYear": "1995"
+    },
+    {
+      "id": "phanishwar_nath_renu",
+      "name": "Phanishwar Nath Renu",
+      "nameHindi": "फणीश्वर नाथ रेणु",
+      "bio": "फणीश्वर नाथ रेणु (4 मार्च 1921 – 11 अप्रैल 1977) हिन्दी के प्रसिद्ध साहित्यकार थे। उनकी कृति 'मैला आँचल' को आधुनिक हिन्दी साहित्य में विशेष स्थान प्राप्त है। उनकी रचनाओं में बिहार की ग्रामीण जिंदगी की सजीव तस्वीर मिलती है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Phanishwar_Nath_Renu.jpg/220px-Phanishwar_Nath_Renu.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1921",
+      "deathYear": "1977"
+    },
+    {
+      "id": "subhadra_kumari_chauhan",
+      "name": "Subhadra Kumari Chauhan",
+      "nameHindi": "सुभद्रा कुमारी चौहान",
+      "bio": "सुभद्रा कुमारी चौहान (16 अगस्त 1904 – 15 फरवरी 1948) हिन्दी की सुप्रसिद्ध कवयित्री और लेखिका थीं। 'झाँसी की रानी' उनकी बहुत लोकप्रिय कविता है। उन्होंने स्वतंत्रता आंदोलन में भी सक्रिय भाग लिया था।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Subhadra_Kumari_Chauhan.jpg/220px-Subhadra_Kumari_Chauhan.jpg",
+      "era": "स्वतंत्रता काल",
+      "birthYear": "1904",
+      "deathYear": "1948"
+    },
+    {
+      "id": "bhisham_sahni",
+      "name": "Bhisham Sahni",
+      "nameHindi": "भीष्म साहनी",
+      "bio": "भीष्म साहनी (8 अगस्त 1915 – 11 जुलाई 2003) हिन्दी के प्रसिद्ध साहित्यकार थे। उन्होंने 'तमस' उपन्यास लिखा जो विभाजन की त्रासदी पर आधारित है। उनकी रचनाओं में समाज की विडंबनाओं का सजीव चित्रण मिलता है।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bhishm_Sahni.jpg/220px-Bhishm_Sahni.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1915",
+      "deathYear": "2003"
+    },
+    {
+      "id": "yashpal",
+      "name": "Yashpal",
+      "nameHindi": "यशपाल",
+      "bio": "यशपाल (3 दिसम्बर 1903 – 26 दिसम्बर 1976) हिन्दी के क्रांतिकारी साहित्यकार थे। उनकी कहानियों और उपन्यासों में तत्कालीन समाज, राजनीति और आम आदमी की पीड़ा का जीवंत चित्रण है। वे मार्क्सवादी विचारधारा से प्रभावित थे।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Yashpal_Writer.jpg/220px-Yashpal_Writer.jpg",
+      "era": "प्रगतिशील काल",
+      "birthYear": "1903",
+      "deathYear": "1976"
+    },
+    {
+      "id": "amritlal_nagar",
+      "name": "Amritlal Nagar",
+      "nameHindi": "अमृतलाल नागर",
+      "bio": "अमृतलाल नागर (17 अगस्त 1916 – 23 फरवरी 1990) हिन्दी के प्रसिद्ध साहित्यकार थे। उन्होंने लखनऊ की संस्कृति और तहजीब को अपने उपन्यासों और कहानियों में जीवंत किया। उनकी लेखनी में हास्य-व्यंग्य और करुणा का अनूठा संगम था।",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Amrit_Lal_Nagar.jpg/220px-Amrit_Lal_Nagar.jpg",
+      "era": "आधुनिक काल",
+      "birthYear": "1916",
+      "deathYear": "1990"
+    }
+  ]
+}

@@ -16,6 +16,21 @@
       "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg"
     },
     {
+  "id": "premchand_nayi_kahani",
+  "title": "ईमानदार नौकर",
+  "authorId": "munshi_premchand",
+  "authorName": "मुंशी प्रेमचंद",
+  "summary": "यह कहानी एक ईमानदार नौकर की है, जो अपने मालिक के लिए कठिन परिस्थितियों में भी सत्य और धर्म का पालन करता है।",
+  "content": "रामलाल गाँव के अमीर जमींदार के यहाँ नौकर था। वह ईमानदारी और निष्ठा के लिए पूरे गाँव में प्रसिद्ध था। एक दिन मालिक ने अपने खेत से काफी धन बाहर भेजने के लिए कहा, लेकिन रास्ते में लूटपाट का खतरा था।\n\nरामलाल ने अपनी जिम्मेदारी समझते हुए पैसों की सुरक्षा के लिए अतिरिक्त सावधानी बरती। उसने रास्ते में किसी से मदद नहीं ली और पूरी ईमानदारी से धन को मालिक तक पहुँचाया।\n\nमालिक ने उसकी निष्ठा देखकर उसे इनाम दिया और पूरे गाँव में उसकी तारीफ की गई। रामलाल की कहानी यह दिखाती है कि ईमानदारी और निष्ठा का कोई विकल्प नहीं होता, चाहे परिस्थितियाँ कितनी भी कठिन क्यों न हों।",
+  "genre": "सामाजिक",
+  "readTimeMinutes": 6,
+  "publishedAt": "1908",
+  "imageUrl": "",
+  "isNew": 1,
+  "currentDate": "2025-04-10",
+  "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Premchand.jpg"
+    },
+    {
       "id": "tagore_kabuliwala",
       "title": "काबुलीवाला",
       "authorId": "rabindranath_tagore",

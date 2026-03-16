@@ -58,7 +58,7 @@
       "imageUrl": "",
       "isNew": 1,
       "currentDate": "2025-04-10",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg"
+      "authorImageUrl": "premchand.jpg"
     },
     {
       "id": "poos_ki_raat",
@@ -73,7 +73,7 @@
       "imageUrl": "",
       "isNew": 1,
       "currentDate": "2025-04-10",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg"
+      "authorImageUrl": "premchand.jpg"
     },
     {
       "id": "thakur_ka_kua",
@@ -88,7 +88,7 @@
       "imageUrl": "",
       "isNew": 1,
       "currentDate": "2025-04-10",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg"
+      "authorImageUrl": "premchand.jpg"
     },
     {
       "id": "kafan",
@@ -103,7 +103,7 @@
       "imageUrl": "",
       "isNew": 1,
       "currentDate": "2025-04-10",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munshi_Premchand_photograph.jpg/220px-Munshi_Premchand_photograph.jpg"
+      "authorImageUrl": "premchand.jpg"
     },
     {
       "id": "tagore_kabuliwala",
@@ -118,7 +118,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rabindranath_Tagore_in_1909.jpg/220px-Rabindranath_Tagore_in_1909.jpg"
+      "authorImageUrl": "ravindranath.jpg"
     },
     {
       "id": "prasad_aakashdeep",
@@ -133,7 +133,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jaishankar_Prasad.jpg/220px-Jaishankar_Prasad.jpg"
+      "authorImageUrl": "jaishankar.jpg"
     },
     {
       "id": "prasad_gram",
@@ -148,7 +148,7 @@
       "imageUrl": "",
       "isNew": 1,
       "currentDate": "2026-03-16",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jaishankar_Prasad.jpg/220px-Jaishankar_Prasad.jpg"
+      "authorImageUrl": "jaishankar.jpg"
     },
     {
       "id": "mahadevi_gillu",
@@ -163,7 +163,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mahadevi_Varma_cropped.jpg/220px-Mahadevi_Varma_cropped.jpg"
+      "authorImageUrl": "mahadevi.jpg"
     },
     {
       "id": "parsai_inspector_matadeen",
@@ -178,7 +178,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Harishankar_Parsai.jpg/220px-Harishankar_Parsai.jpg"
+      "authorImageUrl": "harishankar.jpg"
     },
     {
       "id": "renu_panchlight",
@@ -193,7 +193,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Phanishwar_Nath_Renu.jpg/220px-Phanishwar_Nath_Renu.jpg"
+      "authorImageUrl": "fanishwar.jpg"
     },
     {
       "id": "chauhan_mamta",
@@ -208,7 +208,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Subhadra_Kumari_Chauhan.jpg/220px-Subhadra_Kumari_Chauhan.jpg"
+      "authorImageUrl": "subhdra.jpg"
     },
     {
       "id": "sahni_amritsar_aa_gaya",
@@ -253,7 +253,7 @@
       "imageUrl": "",
       "isNew": 0,
       "currentDate": "",
-      "authorImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Amrit_Lal_Nagar.jpg/220px-Amrit_Lal_Nagar.jpg"
+      "authorImageUrl": "amritlal.jpg"
     }
   ]
 }
